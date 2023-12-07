@@ -4,19 +4,19 @@ En este proyecto de Machine Learning, se utilizaron diversas técnicas para el r
 
 ## Regresión Lineal
 
-La regresión lineal es un método utilizado para predecir una variable continua a partir de una o más variables independientes. En este proyecto, se utilizó la regresión lineal para realizar una clasificación inicial de las imágenes de perros y gatos.
+La regresión lineal es un método utilizado para predecir una variable continua a partir de una o más variables independientes.
 
 ## Regresión Logística
 
-La regresión logística es un algoritmo utilizado para la clasificación binaria. En este proyecto, se utilizó la regresión logística para mejorar la precisión en la clasificación de las imágenes de perros y gatos.
+La regresión logística es un algoritmo utilizado para la clasificación binaria.
 
 ## Árbol de Decisión
 
-Los árboles de decisión son estructuras de datos utilizadas para la toma de decisiones. En este proyecto, se utilizó un árbol de decisión para clasificar las imágenes de perros y gatos en función de diferentes características.
+Los árboles de decisión son estructuras de datos utilizadas para la toma de decisiones.
 
 ## K-Means
 
-K-Means es un algoritmo de clustering utilizado para agrupar datos en función de su similitud. En este proyecto, se utilizó K-Means para agrupar las imágenes de perros y gatos en diferentes categorías.
+K-Means es un algoritmo de clustering utilizado para agrupar datos en función de su similitud.
 
 ## Red Neuronal Normal y Convolucional
 
